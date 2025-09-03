@@ -22,3 +22,9 @@ It allows you to add and manage menu items, take customer orders, and generate b
 - File handling / database  
 
 
+## Screenshots  
+
+### Billing Window  
+Here’s a preview of the Cafe Management System in action:  
+
+![Billing Window](bill.png)
